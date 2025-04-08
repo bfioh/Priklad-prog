@@ -48,13 +48,13 @@ def get_time():
     return f'Сейчас {now}'
 
 
-#
-# @app.route('/get_time/future')
-# def get_time_future():
-#     update_time()
-#     time_after_hour = now + datetime.timedelta(hours=1)
-#     return f'Текущее время +1 час {time_after_hour}'
-#
+
+@app.route('/get_time/future')
+def get_time_future():
+    update_time()
+    time_after_hour = now + datetime.timedelta(hours=1)
+    return f'Текущее время +1 час {time_after_hour}'
+
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 BOOK_FILE = os.path.join(BASE_DIR, 'war_and_peace.txt')
