@@ -85,7 +85,7 @@ def get_random_word():
 
 @app.route('/counter')
 def get_counter():
-    get_counter.visits += 1  # Увеличиваем счетчик на 1
+    get_counter.visits += 1
     return f'Страница была открыта {get_counter.visits} раз(а).'
 
 get_counter.visits = 0

@@ -1,0 +1,18 @@
+итого 108
+-rw-rw-r-- 1 mikov mikov    68 апр 18 16:23 ggwp.txt
+-rw------- 1 mikov mikov     2 апр 14 11:04 ls.save
+-rw-rw-r-- 1 mikov mikov     0 апр 18 17:07 ls.txt
+-rw-rw-r-- 1 mikov mikov 18146 апр 18 13:59 output_file.txt
+-rw-rw-r-- 1 mikov mikov 29760 апр 14 11:09 out.txt
+drwx------ 5 mikov mikov  4096 апр 18 16:23 snap
+drwxrwxr-x 5 mikov mikov  4096 апр 18 13:40 venv
+drwxrwxr-x 3 mikov mikov  4096 апр 14 11:10 work44
+drwxrwxr-x 4 mikov mikov  4096 апр 11 13:38 workdir2
+drwxr-xr-x 2 mikov mikov  4096 апр 11 11:19 Видео
+drwxr-xr-x 2 mikov mikov  4096 апр 11 11:19 Документы
+drwxr-xr-x 2 mikov mikov  4096 апр 11 11:19 Загрузки
+drwxr-xr-x 2 mikov mikov  4096 апр 11 11:19 Изображения
+drwxr-xr-x 2 mikov mikov  4096 апр 11 11:19 Музыка
+drwxr-xr-x 2 mikov mikov  4096 апр 11 11:19 Общедоступные
+drwxr-xr-x 2 mikov mikov  4096 апр 11 11:19 Рабочий стол
+drwxr-xr-x 2 mikov mikov  4096 апр 11 11:19 Шаблоны
